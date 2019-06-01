@@ -7,3 +7,4 @@ set smartindent "智能缩进"
 set cindent "C语言风格缩进"
 set autoindent "自动缩进"
 set nu
+set expandtab
